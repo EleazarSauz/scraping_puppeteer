@@ -1,0 +1,11 @@
+{
+  "name": "scraPu",
+  "version": "1.0.0",
+  "description": "scraping con puppeteer",
+  "main": "index.js",
+  "author": "dani",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.8.0"
+  }
+}
